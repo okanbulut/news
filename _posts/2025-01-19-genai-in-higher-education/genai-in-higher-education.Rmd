@@ -1,0 +1,31 @@
+---
+title: "Generative AI in Higher Education"
+description: |
+  My recent interview in the Gateway on the effect of growing artificial intelligence usage in education.
+author:
+  - name: Okan Bulut
+    url: http://www.okanbulut.com/
+    affiliation: University of Alberta
+    affiliation_url: https://www.ualberta.ca
+    orcid_id: 0000-0001-5853-1267
+date: 2025-01-19
+preview: gatewaylogo.png
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+I recently had the opportunity to be interviewed by [**The Gateway**](https://thegatewayonline.ca), the official student newspaper of the [University of Alberta](https://www.ualberta.ca/en/index.html). During the interview, I shared insights on how the growing use of generative AI is shaping teaching and learning activities in education. 
+
+We discussed both the challenges and opportunities that generative AI tools bring to classrooms and explored ways educators can adapt to this rapidly evolving landscape.
+
+You can read the full interview online [here](https://thegatewayonline.ca/2025/01/the-effect-of-growing-artificial-intelligence-usage-on-education/).
+
+Thank you for your continued interest in my work, and I look forward to hearing your thoughts!
+
+[**RETURN TO THE NEWS PAGE**](https://okanbulut.github.io/news/)
