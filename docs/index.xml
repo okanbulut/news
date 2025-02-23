@@ -7,7 +7,17 @@
     <description>News and Updates about Dr. Okan Bulut
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Sun, 19 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>CRAME-CEMO Joint Colloquium</title>
+      <dc:creator>Okan Bulut</dc:creator>
+      <link>https://okanbulut.github.io/news/posts/2025-02-22-crame-cemo-joint-colloquium</link>
+      <description>Our talk on computerized adaptive testing and response times in the 
+upcoming online colloquium.</description>
+      <guid>https://okanbulut.github.io/news/posts/2025-02-22-crame-cemo-joint-colloquium</guid>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+      <media:content url="https://okanbulut.github.io/news/posts/2025-02-22-crame-cemo-joint-colloquium/cat_rt.png" medium="image" type="image/png" width="1024" height="1024"/>
+    </item>
     <item>
       <title>Generative AI in Higher Education</title>
       <dc:creator>Okan Bulut</dc:creator>

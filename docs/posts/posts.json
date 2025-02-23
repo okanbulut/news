@@ -1,5 +1,24 @@
 [
   {
+    "path": "posts/2025-02-22-crame-cemo-joint-colloquium/",
+    "title": "CRAME-CEMO Joint Colloquium",
+    "description": "Our talk on computerized adaptive testing and response times in the \nupcoming online colloquium.",
+    "author": [
+      {
+        "name": "Okan Bulut",
+        "url": "http://www.okanbulut.com/"
+      }
+    ],
+    "date": "2025-02-22",
+    "categories": [],
+    "contents": "\r\nDr. Esther Ulitzsch from the Centre for Educational Measurement (CEMO) at the University of Oslo and I have decided to organize a series of online colloquiums to share our research with each other and build a connection between the two centres (CRAME and CEMO).\r\nThe first colloquium will be on March 3, 2025 from 8:30 am to 9:30 am (via Zoom). In this presentation, Joyce and I will present our ongoing research on the integration of response time with computerized adaptive testing (see the flyer below for further details). The Zoom link for our presentation is https://bit.ly/3EQ7Ole. We look forward to seeing you there!\r\n\r\nRETURN TO THE NEWS PAGE\r\n\r\n\r\n\r\n",
+    "preview": "posts/2025-02-22-crame-cemo-joint-colloquium/cat_rt.png",
+    "last_modified": "2025-02-22T22:14:10-07:00",
+    "input_file": {},
+    "preview_width": 1024,
+    "preview_height": 1024
+  },
+  {
     "path": "posts/2025-01-19-genai-in-higher-education/",
     "title": "Generative AI in Higher Education",
     "description": "My recent interview in the Gateway on the effect of growing artificial intelligence usage in education.",
@@ -13,7 +32,7 @@
     "categories": [],
     "contents": "\r\nI recently had the opportunity to be interviewed by The Gateway, the official student newspaper of the University of Alberta. During the interview, I shared insights on how the growing use of generative AI is shaping teaching and learning activities in education.\r\nWe discussed both the challenges and opportunities that generative AI tools bring to classrooms and explored ways educators can adapt to this rapidly evolving landscape.\r\nYou can read the full interview online here.\r\nThank you for your continued interest in my work, and I look forward to hearing your thoughts!\r\nRETURN TO THE NEWS PAGE\r\n\r\n\r\n\r\n",
     "preview": "posts/2025-01-19-genai-in-higher-education/gatewaylogo.png",
-    "last_modified": "2025-01-19T22:08:13-07:00",
+    "last_modified": "2025-02-22T21:58:29-07:00",
     "input_file": {},
     "preview_width": 793,
     "preview_height": 226
